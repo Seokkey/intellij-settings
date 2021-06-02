@@ -3,6 +3,18 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="999" />
   </JavaCodeStyleSettings>
+  <PostgresCodeStyleSettings version="5">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="IDENTIFIER_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="QUERY_EL_COMMA" value="2" />
+    <option name="INSERT_CONTENT" value="4" />
+    <option name="INSERT_CLOSING" value="0" />
+    <option name="INSERT_VALUES_EL_LINE" value="1" />
+    <option name="WITH_ALIGN_AS" value="true" />
+    <option name="SELECT_USE_AS_WORD" value="1" />
+  </PostgresCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
@@ -21,6 +33,14 @@
   <codeStyleSettings language="JavaScript">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PostgreSQL">
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
