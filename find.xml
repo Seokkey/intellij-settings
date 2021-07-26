@@ -8,8 +8,8 @@
     <mask>*.css</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
-    <mask>*.js</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
