@@ -8,9 +8,9 @@
     <mask>*.html</mask>
     <mask>*.yml</mask>
     <mask>*.css</mask>
-    <mask>*.java</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
     <mask>*.xml</mask>
   </component>
 </application>
