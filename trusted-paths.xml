@@ -4,6 +4,7 @@
       <list>
         <option value="$USER_HOME$/studyspace" />
         <option value="$USER_HOME$/workspace/sdf" />
+        <option value="$USER_HOME$/workspace/kiost" />
       </list>
     </option>
   </component>
