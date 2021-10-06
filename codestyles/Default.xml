@@ -25,8 +25,8 @@
     <option name="KEYWORD_CASE" value="2" />
     <option name="TYPE_CASE" value="2" />
     <option name="QUOTE_IDENTIFIER" value="1" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
     <option name="QUERY_EL_COMMA" value="2" />
-    <option name="QUERY_IN_ONE_STRING" value="3" />
     <option name="SUBQUERY_OPENING" value="3" />
     <option name="SUBQUERY_CONTENT" value="4" />
     <option name="SUBQUERY_CLOSING" value="4" />
@@ -36,7 +36,11 @@
     <option name="INSERT_CLOSING" value="4" />
     <option name="INSERT_TABLE_EL_LINE" value="1" />
     <option name="INSERT_VALUES_EL_LINE" value="101" />
+    <option name="INSERT_EL_WRAP" value="1" />
+    <option name="INSERT_EL_COMMA" value="2" />
     <option name="SET_EL_LINE" value="101" />
+    <option name="SET_EL_COMMA" value="2" />
+    <option name="WITH_EL_LINE" value="0" />
     <option name="SELECT_EL_LINE" value="101" />
     <option name="SELECT_EL_COMMA" value="2" />
     <option name="SELECT_USE_AS_WORD" value="1" />
