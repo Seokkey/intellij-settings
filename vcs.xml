@@ -18,6 +18,10 @@
           <option name="url" value="https://github.com/Seokkey/React-Management-Tutorial.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ust21.co.kr" />
+          <option name="userName" value="yooseok" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/studySpace" />
