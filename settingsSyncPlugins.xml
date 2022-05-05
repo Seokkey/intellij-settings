@@ -1,0 +1,178 @@
+<application>
+  <component name="SettingsSyncPlugins">
+    <option name="plugins">
+      <map>
+        <entry key="BrowseWordAtCaret">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="CheckStyle-IDEA">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="GrepConsole">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="MavenRunHelper">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="org.jetbrains.idea.maven" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="String Manipulation">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.github.setial">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.godwin.json.parser">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.nvinayshetty.DTOnator">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="google-java-format">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="idea-mini-ibatis">
+          <value>
+            <PluginData>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="izhangzhihao.rainbow.brackets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="lermitage.intellij.extra.icons">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="mobi.hsz.idea.gitignore">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.sonarlint.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="zielu.gittoolbox">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
